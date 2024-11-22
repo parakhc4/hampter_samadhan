@@ -1,0 +1,25 @@
+Indicator,Normal Range (Lower),Normal Range (Upper),Units
+Glucose,70.0,140.0,mg/dL
+Cholesterol,125.0,200.0,mg/dL
+Hemoglobin,13.5,17.5,g/dL
+Platelets,150000.0,450000.0,per microliter of blood
+White Blood Cells,4000.0,11000.0,per cubic millimeter of blood
+Red Blood Cells,4.2,5.4,million cells per microliter of blood
+Hematocrit,38.0,52.0,percentage
+Mean Corpuscular Volume,80.0,100.0,femtoliters
+Mean Corpuscular Hemoglobin,27.0,33.0,picograms
+Mean Corpuscular Hemoglobin Concentration,32.0,36.0,grams per deciliter
+Insulin,5.0,25.0,microU/mL
+BMI,18.5,24.9,kg/m^2
+Systolic Blood Pressure,90.0,120.0,mmHg
+Diastolic Blood Pressure,60.0,80.0,mmHg
+Triglycerides,50.0,150.0,mg/dL
+HbA1c,4.0,6.0,percentage
+LDL Cholesterol,70.0,130.0,mg/dL
+HDL Cholesterol,40.0,60.0,mg/dL
+ALT,10.0,40.0,U/L
+AST,10.0,40.0,U/L
+Heart Rate,60.0,100.0,beats per minute
+Creatinine,0.6,1.2,mg/dL
+Troponin,0.0,0.04,ng/mL
+C-reactive Protein,0.0,3.0,mg/L
