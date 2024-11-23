@@ -2,7 +2,7 @@
 # Symptom Checker Chatbot
 
 ## Overview  
-This project is a **Symptom Checker Chatbot** designed to assist users in identifying potential health issues, recommending nearby healthcare specialists, and providing personalized insurance suggestions based on medical reports and symptoms. The chatbot is built to streamline the healthcare journey using AI-driven techniques for report summarization, health insights, and service recommendations.
+This project is a **Symptom Checker Chatbot** designed to assist users in identifying potential health issues and recommending nearby healthcare specialists. Additionally, it includes a future phase to provide personalized insurance suggestions based on user health data. The chatbot streamlines the healthcare journey using AI-driven techniques for report summarization, health insights, and service recommendations.
 
 ---
 
@@ -19,7 +19,7 @@ This project is a **Symptom Checker Chatbot** designed to assist users in identi
 - Integrates location-based services to recommend nearby healthcare providers.
 - Tailors recommendations based on identified health issues and user preferences.
 
-### **Phase 3: Insurance Premium Recommendation** *(Work in Progress)*
+### **Additional Phase: Insurance Premium Recommendation** *(Future Phase)*
 - Analyzes health risks from summarized reports.
 - Suggests personalized insurance policies for optimal coverage and affordability.
 
@@ -30,7 +30,6 @@ This project is a **Symptom Checker Chatbot** designed to assist users in identi
 - **Database:** Qdrant for vector embeddings  
 - **AI/ML:** Large Language Model (LLM) integration using **Monster API**  
 - **Validation Layer:** Custom logic for domain-specific content validation  
-- **Additional Tools:** OCR for text extraction, Flask/FastAPI for backend  
 
 ---
 
@@ -83,30 +82,14 @@ symptom-checker-chatbot/
 2. **Receive Summarized Insights**  
    The chatbot processes the report and provides a summarized view of key information, including potential health risks.
 
-3. **Explore Recommendations** *(Phase 2 & 3 forthcoming)*  
+3. **Explore Recommendations** *(Phase 2 forthcoming)*  
    - Nearby healthcare centers and specialists based on identified issues.
-   - Personalized health insurance recommendations.
 
 ---
 
 ## Future Work
 - **Phase 2 Implementation:** Location-based specialist recommendations.
-- **Phase 3 Implementation:** Health insurance policy recommendation system.
+- **Additional Phase Implementation:** Health insurance policy recommendation system.
 - Advanced natural language understanding for symptom-based queries.
 
 ---
-
-## Contribution  
-Contributions are welcome! Please open an issue or submit a pull request to collaborate on this project.
-
----
-
-## License  
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Contact  
-For questions or feedback, please reach out:  
-- **Email:** your_email@example.com  
-- **GitHub:** [yourusername](https://github.com/yourusername)  
