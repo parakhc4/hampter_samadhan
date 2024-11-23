@@ -30,7 +30,6 @@ This project is a **Symptom Checker Chatbot** designed to assist users in identi
 - **Database:** Qdrant for vector embeddings  
 - **AI/ML:** Large Language Model (LLM) integration using **Monster API**  
 - **Validation Layer:** Custom logic for domain-specific content validation  
-- **Additional Tools:** OCR for text extraction, Flask/FastAPI for backend  
 
 ---
 
@@ -94,18 +93,3 @@ symptom-checker-chatbot/
 - Advanced natural language understanding for symptom-based queries.
 
 ---
-
-## Contribution  
-Contributions are welcome! Please open an issue or submit a pull request to collaborate on this project.
-
----
-
-## License  
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Contact  
-For questions or feedback, please reach out:  
-- **Email:** your_email@example.com  
-- **GitHub:** [yourusername](https://github.com/yourusername)  
